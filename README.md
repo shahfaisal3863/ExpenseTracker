@@ -14,17 +14,17 @@ A full-stack Expense Tracker application built to manage personal finances, trac
 
 ## Tech Stack
 
-### Frontend
+**Frontend**
 - React.js
 - Vite
 - Tailwind CSS
 - JavaScript
 
-### Backend
+**Backend**
 - ASP.NET Core Web API (.NET 9)
 - Entity Framework Core
 
-### Database
+**Database**
 - Microsoft SQL Server
 
 ## Project Structure
@@ -47,8 +47,6 @@ ExpenseTracker/
 ## Getting Started
 
 ### Prerequisites
-
-Make sure you have installed:
 
 - Node.js and npm
 - .NET 9 SDK
@@ -109,6 +107,12 @@ The backend provides REST API endpoints for managing:
 - Budgets
 - Dashboard Summary
 
+## Screenshots
+
+### Dashboard
+
+![Expense Tracker Dashboard](Capture.PNG)
+
 ## Future Improvements
 
 - User authentication
@@ -121,10 +125,6 @@ The backend provides REST API endpoints for managing:
 **Shah Faisal**
 
 GitHub: [@shahfaisal3863](https://github.com/shahfaisal3863)
-
-## Screenshots
-
-![Expense Tracker Dashboard](Capture.PNG)
 
 ---
 
