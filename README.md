@@ -122,6 +122,10 @@ The backend provides REST API endpoints for managing:
 
 GitHub: [@shahfaisal3863](https://github.com/shahfaisal3863)
 
+## Screenshots
+
+![Expense Tracker Dashboard](Capture.PNG)
+
 ---
 
 If you find this project useful, feel free to explore the repository and share your feedback.
