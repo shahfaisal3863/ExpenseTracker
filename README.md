@@ -111,7 +111,7 @@ The backend provides REST API endpoints for managing:
 
 ### Dashboard
 
-![Expense Tracker Dashboard](Capture.PNG)
+![Expense Tracker Dashboard](screenshots/dashboard.png.PNG)
 
 ## Future Improvements
 
